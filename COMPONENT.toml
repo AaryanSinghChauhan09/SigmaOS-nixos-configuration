@@ -3,7 +3,7 @@ name = "SigmaOS-nixos-configuration"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "nixos-configuration component"
+description = "NixOS Configuration"
 upstream = []
 
 [contract]
